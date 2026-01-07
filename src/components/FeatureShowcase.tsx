@@ -15,7 +15,7 @@ const features = [
     align: "right" as const,
   },
   {
-    title: "Spend With Confidence
+    title: "Spend With Confidence",
     description: "Define your limits, stick to your goals. Smart budget controls that adapt to your lifestyle.",
     image: appLimits,
     align: "left" as const,
