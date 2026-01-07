@@ -15,26 +15,26 @@ const features = [
     align: "right" as const,
   },
   {
-    title: "Set Spending Boundaries",
+    title: "Spend With Confidence
     description: "Define your limits, stick to your goals. Smart budget controls that adapt to your lifestyle.",
     image: appLimits,
     align: "left" as const,
   },
   {
-    title: "Track Every Expense",
-    description: "Effortless logging with intelligent categorization. Know where every dollar goes without the hassle.",
+    title: "Clarity From Every Spend",
+    description: "Effortless logging with intelligent categorization. Know where your money goes, without the hassle.",
     image: appExpenses,
     align: "right" as const,
   },
   {
-    title: "Understand Your Spending",
+    title: "Insights That Matter",
     description: "Beautiful visualizations that reveal patterns. Insights that help you make smarter financial decisions.",
     image: appInsights,
     align: "left" as const,
   },
   {
-    title: "Build Better Habits",
-    description: "Your complete financial ledger at a glance. Watch your progress and celebrate your wins.",
+    title: "Better Habits, Naturally",
+    description: "Your Personal Financial ledger at a glance. Watch your progress and celebrate your wins.",
     image: appLedger,
     align: "right" as const,
   },
