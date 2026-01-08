@@ -34,7 +34,7 @@ const features = [
   },
   {
     title: "Better Habits, Naturally",
-    description: "Your Personal Financial ledger at a glance. Watch your progress and celebrate your wins.",
+    description: "Your Ledger at a glance. Watch your progress and celebrate your wins.",
     image: appLedger,
     align: "right" as const,
   },
