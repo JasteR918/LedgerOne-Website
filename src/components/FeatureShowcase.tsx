@@ -9,7 +9,7 @@ import appLedger from "@/assets/app-ledger.png";
 
 const features = [
   {
-    title: "Instant. Clear. Private.",
+    title: "Security, Simplified.",
     description: "Protected by Face ID. Your finances stay secure with biometric authentication that feels effortless.",
     image: appFaceid,
     align: "right" as const,
