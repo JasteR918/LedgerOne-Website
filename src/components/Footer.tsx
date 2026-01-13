@@ -84,7 +84,7 @@ const Footer = () => {
           
           {/* App Store badge placeholder */}
           <a
-            href="#"
+            href="https://apps.apple.com/in/app/ledgerone/id6756980948"
             className="inline-flex items-center gap-2 px-4 py-2 bg-primary text-primary-foreground rounded-lg text-sm font-medium hover:opacity-90 transition-opacity"
           >
             <svg className="w-5 h-5" viewBox="0 0 24 24" fill="currentColor">
