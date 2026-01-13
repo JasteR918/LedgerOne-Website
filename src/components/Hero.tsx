@@ -63,7 +63,7 @@ const Hero = () => {
             Download on the App Store
           </a>
           <a
-            href="#features"
+            href="https://apps.apple.com/in/app/ledgerone/id6756980948"
             className="inline-flex items-center text-muted-foreground hover:text-foreground transition-colors duration-300 font-medium"
           >
             Learn more
