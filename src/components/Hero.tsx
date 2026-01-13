@@ -57,13 +57,13 @@ const Hero = () => {
           transition={{ duration: 0.8, delay: 0.9 }}
         >
           <a
-            href="#"
+            href="https://apps.apple.com/in/app/ledgerone/id6756980948"
             className="inline-flex items-center justify-center px-8 py-4 bg-primary text-primary-foreground rounded-full font-medium text-base transition-all duration-300 hover:scale-105 hover:shadow-xl"
           >
             Download on the App Store
           </a>
           <a
-            href="https://apps.apple.com/in/app/ledgerone/id6756980948"
+            href="#features"
             className="inline-flex items-center text-muted-foreground hover:text-foreground transition-colors duration-300 font-medium"
           >
             Learn more
